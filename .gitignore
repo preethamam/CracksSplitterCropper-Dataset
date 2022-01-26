@@ -51,3 +51,7 @@ Thumbs.db
 # MATLAB files
 *.asv
 *.fig
+*.mat
+
+MoveFiles_IndexTextFile.m
+MoveFiles.m
