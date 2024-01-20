@@ -1,4 +1,6 @@
 # Introduction
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=preethamam/CracksSplitterCropper-Dataset) [![View Cracks splitter/cropper/augment on a large dataset on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/105785-cracks-splitter-cropper-augment-on-a-large-dataset)
+
 Cracks are the precursor of defects. Labeling the cracks is a tedious process. To augment the cracks with similar geometric properties, cracks can be split into tile images. In this program, the thinned cracks are traversed with a certain overlap ratio between the adjacent tiles, each pixel and interpolated points to split into tile images on a large dataset. This will ensure to produce the cracks with similar attributes. Note that some cracks artifacts may show in the tiled images.
 
 # Sample images
@@ -11,7 +13,5 @@ Cracks are the precursor of defects. Labeling the cracks is a tedious process. T
 MATLAB <br />
 MATLAB Image Processing Toolbox <br />
 
-# MATLAB Central
-[![View Cracks splitter/cropper/augment on a large dataset on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/105785-cracks-splitter-cropper-augment-on-a-large-dataset)
-
+# Feedback
 Please rate and provide feedback for the further improvements.
