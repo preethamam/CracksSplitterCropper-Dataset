@@ -12,7 +12,13 @@ Cracks are the precursor of defects. Labeling the cracks is a tedious process. T
 # Requirements
 MATLAB <br />
 MATLAB Image Processing Toolbox <br />
+Visual Studio redistributable package x86/x64, 2012 or 2015, to run the `mex` files.
 
+# Open source programs and acknowledgements
+1. Nicholas Howe, Better Skeletonization, ([MATLAB File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/11123-better-skeletonization)).
+2. Yohai, Skeletonization using Voronoi, ([MATLAB File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/27543-skeletonization-using-voronoi)).
+3. Dirk-Jan Kroon, Accurate Fast Marching, ([MATLAB File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/24531-accurate-fast-marching)).
+   
 # Citation
 Crack splitter code for cropping the cracks to the dataset augmentation on large datasets is available to the public. If you use this code in your research, please use the following BibTeX entry to cite:
 ```bibtex
